@@ -1,0 +1,6 @@
+name = "near-ai-worker"
+main = "src/index.js"
+compatibility_date = "2023-10-25"
+
+[ai]
+binding = "AI"
